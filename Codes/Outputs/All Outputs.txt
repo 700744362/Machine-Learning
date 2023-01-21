@@ -1,12 +1,12 @@
 Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
-================== RESTART: D:\UCM\ML\Assignment1 Codes.py.py ==================
+=============== RESTART: D:\UCM\ML\Codes\Assignment1 Codes.py.py ===============
 question 1
 Min age =  19
 Max age =  26
-median age =  24.0
-Average age =  22.8
+median age =  24.5
+Average age =  22.75
 Range of Ages =  7
 
 
@@ -34,9 +34,9 @@ Family members ('ajay', 'Ravi', 'julie', {'Father_name': 'Rao'}, 'Lakshmi')
 
 Question 4
 Length of IT_Companies =  7
-{'Microsoft', 'Facebook', 'Google', 'Amazon', 'Twitter', 'Oracle', 'IBM', 'Apple'}
-{'Microsoft', 'Facebook', 'Google', 'Infosys', 'Twitter', 'Oracle', 'IBM', 'Apple', 'Accenture', 'TCS', 'Amazon'}
-{'Microsoft', 'Facebook', 'Infosys', 'Twitter', 'Oracle', 'IBM', 'Apple', 'Accenture', 'TCS', 'Amazon'}
+{'Google', 'Oracle', 'Apple', 'Microsoft', 'Twitter', 'IBM', 'Amazon', 'Facebook'}
+{'Google', 'TCS', 'Microsoft', 'IBM', 'Twitter', 'Infosys', 'Oracle', 'Apple', 'Amazon', 'Accenture', 'Facebook'}
+{'TCS', 'Microsoft', 'IBM', 'Twitter', 'Infosys', 'Oracle', 'Apple', 'Amazon', 'Accenture', 'Facebook'}
 Union of A and B : 
  {19, 20, 22, 24, 25, 26, 27, 28}
 Intersection of A and B : 
@@ -61,16 +61,16 @@ Area of circle =  1256.6370614359173
 
 
 Question 6
-inspire
-love
 and
-to
+inspire
 I
-a
-am
-teach
 people
+teach
 teacher
+to
+am
+love
+a
  Number of Unique words =  10
 
 
@@ -85,6 +85,6 @@ The are of a circle with radius 10 is 9 meters square
 
 Question 9
 Enter no of students4
-Enter weights in lbs150 148 155 201
+Enter weights in lbs150 155 145 148
 Weights in Kilograms= 
- [68.0388, 67.131616, 70.30676, 91.171992]
+ [68.0388, 70.30676, 65.77083999999999, 67.131616]
