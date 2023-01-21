@@ -1,0 +1,10 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========================== RESTART: D:\UCM\ML\Q3.py ===========================
+Question 3
+Values in tuple brothers =  ('ajay', 'Ravi')  Sisters =  ('julie',)
+<class 'tuple'> <class 'tuple'>
+Siblings =  ('ajay', 'Ravi', 'julie')
+I have  3  siblings
+Family members ('ajay', 'Ravi', 'julie', {'Father_name': 'Rao'}, 'Lakshmi')

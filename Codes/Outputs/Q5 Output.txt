@@ -1,0 +1,11 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========================== RESTART: D:/UCM/ML/Q5.py ===========================
+Question 5
+Area of circle =  2827.4333882308138
+ Circumference of circle =  188.49555921538757
+Enter radius of circle 20
+Area of circle =  1256.6370614359173
+
+

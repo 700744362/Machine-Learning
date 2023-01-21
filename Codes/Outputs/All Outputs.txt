@@ -1,0 +1,90 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================== RESTART: D:\UCM\ML\Assignment1 Codes.py.py ==================
+question 1
+Min age =  19
+Max age =  26
+median age =  24.0
+Average age =  22.8
+Range of Ages =  7
+
+
+Queestion 2
+ Dog Dictionary after adding  key and value pairs = 
+{'color': 'Brown', 'breed': 'Lab', 'legs': 'medium', 'age': 3}
+Length of Student dict =  9
+Value of skills and Type of Skills in Student dict is 
+  ['c'] 
+  <class 'list'>
+['c', 'java', 'Python']
+ List of Keys present in student dict are 
+  ['First_name', 'Last_name', 'Gender', 'Age', 'Martial_Status', 'skills', 'country', 'city', 'address']
+ List of Values present in student dict are 
+ ['Veerendra', 'J', 'Male', 22, 'Single', ['c', 'java', 'Python'], 'Us', 'Kansas', 'OverlandPark']
+
+
+Question 3
+Values in tuple brothers =  ('ajay', 'Ravi')  Sisters =  ('julie',)
+<class 'tuple'> <class 'tuple'>
+Siblings =  ('ajay', 'Ravi', 'julie')
+I have  3  siblings
+Family members ('ajay', 'Ravi', 'julie', {'Father_name': 'Rao'}, 'Lakshmi')
+
+
+Question 4
+Length of IT_Companies =  7
+{'Microsoft', 'Facebook', 'Google', 'Amazon', 'Twitter', 'Oracle', 'IBM', 'Apple'}
+{'Microsoft', 'Facebook', 'Google', 'Infosys', 'Twitter', 'Oracle', 'IBM', 'Apple', 'Accenture', 'TCS', 'Amazon'}
+{'Microsoft', 'Facebook', 'Infosys', 'Twitter', 'Oracle', 'IBM', 'Apple', 'Accenture', 'TCS', 'Amazon'}
+Union of A and B : 
+ {19, 20, 22, 24, 25, 26, 27, 28}
+Intersection of A and B : 
+ {19, 20, 22, 24, 25, 26}
+Is A Subset of B :  True
+Are A and B disjoint Sets:  False
+ Join A with B : 
+ {19, 20, 22, 24, 25, 26, 27, 28}
+ Join B with A : 
+ {19, 20, 22, 24, 25, 26, 27, 28}
+Symetric Difference between A and B : 
+ {27, 28}
+Length of List =  8 
+Length of Set = 5
+
+
+Question 5
+Area of circle =  2827.4333882308138
+ Circumference of circle =  188.49555921538757
+Enter radius of circle20
+Area of circle =  1256.6370614359173
+
+
+Question 6
+inspire
+love
+and
+to
+I
+a
+am
+teach
+people
+teacher
+ Number of Unique words =  10
+
+
+Question 7
+Name	Age	Country	City
+Asabench	250	Finland	Helsinki
+
+
+Question 8
+The are of a circle with radius 10 is 9 meters square
+
+
+Question 9
+Enter no of students4
+Enter weights in lbs150 148 155 201
+Weights in Kilograms= 
+ [68.0388, 67.131616, 70.30676, 91.171992]

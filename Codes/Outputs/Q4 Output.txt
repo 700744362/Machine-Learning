@@ -1,0 +1,23 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========================== RESTART: D:/UCM/ML/Q4.py ===========================
+Question 4
+Length of IT_Companies =  7
+{'Oracle', 'Microsoft', 'Facebook', 'Google', 'IBM', 'Amazon', 'Twitter', 'Apple'}
+{'Facebook', 'Google', 'IBM', 'Amazon', 'Twitter', 'TCS', 'Apple', 'Oracle', 'Infosys', 'Microsoft', 'Accenture'}
+{'Facebook', 'IBM', 'Amazon', 'Twitter', 'TCS', 'Apple', 'Oracle', 'Infosys', 'Microsoft', 'Accenture'}
+Union of A and B : 
+ {19, 20, 22, 24, 25, 26, 27, 28}
+Intersection of A and B : 
+ {19, 20, 22, 24, 25, 26}
+Is A Subset of B :  True
+Are A and B disjoint Sets:  False
+ Join A with B : 
+ {19, 20, 22, 24, 25, 26, 27, 28}
+ Join B with A : 
+ {19, 20, 22, 24, 25, 26, 27, 28}
+Symetric Difference between A and B : 
+ {27, 28}
+Length of List =  8 
+Length of Set = 5

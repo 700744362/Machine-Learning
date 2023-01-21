@@ -1,0 +1,9 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========================== RESTART: D:/UCM/ML/Q9.py ===========================
+Question 9
+Enter no of students 4
+Enter weights in lbs150 155 145 148
+Weights in Kilograms= 
+ [68.0388, 70.30676, 65.77083999999999, 67.131616]

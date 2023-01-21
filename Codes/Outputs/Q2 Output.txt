@@ -1,0 +1,16 @@
+Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=========================== RESTART: D:\UCM\ML\Q2.py ===========================
+Queestion 2
+ Dog Dictionary after adding  key and value pairs = 
+{'color': 'Brown', 'breed': 'Lab', 'legs': 'medium', 'age': 3}
+Length of Student dict =  9
+Value of skills and Type of Skills in Student dict is 
+  ['c'] 
+  <class 'list'>
+['c', 'java', 'Python']
+ List of Keys present in student dict are 
+  ['First_name', 'Last_name', 'Gender', 'Age', 'Martial_Status', 'skills', 'country', 'city', 'address']
+ List of Values present in student dict are 
+ ['Veerendra', 'J', 'Male', 22, 'Single', ['c', 'java', 'Python'], 'Us', 'Kansas', 'OverlandPark']
